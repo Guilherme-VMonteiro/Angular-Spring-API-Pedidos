@@ -24,6 +24,14 @@ A API deve possuir o padrão Value Object e deve ser organizada e limpa, igual d
 
 # Como testar
 
+Em breve..
+
+# To-do
+
+ * [x] Implementar o esqueleto básico da API no Back-end.
+ * [ ] Implementar o Front-end.
+ * [ ] Implementar o Value Object ou Data transfer object.
+ * [ ] Implementar Spring Security.
 
 
  
